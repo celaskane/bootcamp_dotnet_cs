@@ -1,0 +1,16 @@
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.exe
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.deps.json
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.runtimeconfig.json
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.runtimeconfig.dev.json
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.dll
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\DigitalInnovationOne\bin\Debug\net5.0\ref\DigitalInnovationOne.dll
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.pdb
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.csproj.AssemblyReference.cache
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.dll
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\DigitalInnovationOne\obj\Debug\net5.0\ref\DigitalInnovationOne.dll
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.pdb
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.genruntimeconfig.cache
