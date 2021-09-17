@@ -1,0 +1,16 @@
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\01estruturaPrograma\bin\Debug\net5.0\01estruturaPrograma.exe
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\01estruturaPrograma\bin\Debug\net5.0\01estruturaPrograma.deps.json
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\01estruturaPrograma\bin\Debug\net5.0\01estruturaPrograma.runtimeconfig.json
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\01estruturaPrograma\bin\Debug\net5.0\01estruturaPrograma.runtimeconfig.dev.json
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\01estruturaPrograma\bin\Debug\net5.0\01estruturaPrograma.dll
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\01estruturaPrograma\bin\Debug\net5.0\ref\01estruturaPrograma.dll
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\01estruturaPrograma\bin\Debug\net5.0\01estruturaPrograma.pdb
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\01estruturaPrograma\obj\Debug\net5.0\01estruturaPrograma.csproj.AssemblyReference.cache
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\01estruturaPrograma\obj\Debug\net5.0\01estruturaPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\01estruturaPrograma\obj\Debug\net5.0\01estruturaPrograma.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\01estruturaPrograma\obj\Debug\net5.0\01estruturaPrograma.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\01estruturaPrograma\obj\Debug\net5.0\01estruturaPrograma.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\01estruturaPrograma\obj\Debug\net5.0\01estruturaPrograma.dll
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\01estruturaPrograma\obj\Debug\net5.0\ref\01estruturaPrograma.dll
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\01estruturaPrograma\obj\Debug\net5.0\01estruturaPrograma.pdb
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\01estruturaPrograma\obj\Debug\net5.0\01estruturaPrograma.genruntimeconfig.cache

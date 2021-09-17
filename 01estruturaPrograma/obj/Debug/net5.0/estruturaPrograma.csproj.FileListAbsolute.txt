@@ -1,0 +1,16 @@
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\estruturaPrograma\bin\Debug\net5.0\estruturaPrograma.exe
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\estruturaPrograma\bin\Debug\net5.0\estruturaPrograma.deps.json
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\estruturaPrograma\bin\Debug\net5.0\estruturaPrograma.runtimeconfig.json
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\estruturaPrograma\bin\Debug\net5.0\estruturaPrograma.runtimeconfig.dev.json
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\estruturaPrograma\bin\Debug\net5.0\estruturaPrograma.dll
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\estruturaPrograma\bin\Debug\net5.0\ref\estruturaPrograma.dll
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\estruturaPrograma\bin\Debug\net5.0\estruturaPrograma.pdb
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\estruturaPrograma\obj\Debug\net5.0\estruturaPrograma.csproj.AssemblyReference.cache
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\estruturaPrograma\obj\Debug\net5.0\estruturaPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\estruturaPrograma\obj\Debug\net5.0\estruturaPrograma.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\estruturaPrograma\obj\Debug\net5.0\estruturaPrograma.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\estruturaPrograma\obj\Debug\net5.0\estruturaPrograma.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\estruturaPrograma\obj\Debug\net5.0\estruturaPrograma.dll
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\estruturaPrograma\obj\Debug\net5.0\ref\estruturaPrograma.dll
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\estruturaPrograma\obj\Debug\net5.0\estruturaPrograma.pdb
+C:\Users\leand\OneDrive\Documentos\Faculdade\Bootcamp\avanade\estruturaPrograma\obj\Debug\net5.0\estruturaPrograma.genruntimeconfig.cache
